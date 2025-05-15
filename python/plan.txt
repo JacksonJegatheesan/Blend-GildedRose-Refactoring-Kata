@@ -1,0 +1,20 @@
+1. confusing texts
+2. too much rule in update
+3. similar conditions
+
+sell is common for all options
+
+quality inc by in AGED_BRIE if sell is less than 0
+otherwise in by 1
+
+for BACKSTAGE_PASSES
+quality inc by 1 if greater than 11
+and inc by 2 if less than 11
+and inc by 3 if less than 6
+and becomes 0 if goes less than 0
+
+for SULFURAS
+nothing happens just same values
+
+for any other
+quality 
